@@ -27,11 +27,11 @@
         Console.WriteLine(" ");
         Console.WriteLine("Would you like to restart? Enter yes or y to continue, or enter any other key to exit.");
 
-        if (Console.ReadLine("y")) //I know this isn't fully working.
+        if (Console.ReadLine("y")) //I know this isn't fully working, can't figure out why.
         {
             hungry = true; 
         }
-        else if (Console.ReadLine("yes")) //I know this isn't fully working.
+        else if (Console.ReadLine("yes")) //I know this isn't fully working, can't figure out why.
         {
             hungry = true;
         }

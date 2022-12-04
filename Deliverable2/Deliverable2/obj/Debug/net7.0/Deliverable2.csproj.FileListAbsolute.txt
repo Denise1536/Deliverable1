@@ -1,0 +1,15 @@
+/Users/Ruth/Projects/Deliverable2/Deliverable2/bin/Debug/net7.0/Deliverable2
+/Users/Ruth/Projects/Deliverable2/Deliverable2/bin/Debug/net7.0/Deliverable2.deps.json
+/Users/Ruth/Projects/Deliverable2/Deliverable2/bin/Debug/net7.0/Deliverable2.runtimeconfig.json
+/Users/Ruth/Projects/Deliverable2/Deliverable2/bin/Debug/net7.0/Deliverable2.dll
+/Users/Ruth/Projects/Deliverable2/Deliverable2/bin/Debug/net7.0/Deliverable2.pdb
+/Users/Ruth/Projects/Deliverable2/Deliverable2/obj/Debug/net7.0/Deliverable2.csproj.AssemblyReference.cache
+/Users/Ruth/Projects/Deliverable2/Deliverable2/obj/Debug/net7.0/Deliverable2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Ruth/Projects/Deliverable2/Deliverable2/obj/Debug/net7.0/Deliverable2.AssemblyInfoInputs.cache
+/Users/Ruth/Projects/Deliverable2/Deliverable2/obj/Debug/net7.0/Deliverable2.AssemblyInfo.cs
+/Users/Ruth/Projects/Deliverable2/Deliverable2/obj/Debug/net7.0/Deliverable2.csproj.CoreCompileInputs.cache
+/Users/Ruth/Projects/Deliverable2/Deliverable2/obj/Debug/net7.0/Deliverable2.dll
+/Users/Ruth/Projects/Deliverable2/Deliverable2/obj/Debug/net7.0/refint/Deliverable2.dll
+/Users/Ruth/Projects/Deliverable2/Deliverable2/obj/Debug/net7.0/Deliverable2.pdb
+/Users/Ruth/Projects/Deliverable2/Deliverable2/obj/Debug/net7.0/Deliverable2.genruntimeconfig.cache
+/Users/Ruth/Projects/Deliverable2/Deliverable2/obj/Debug/net7.0/ref/Deliverable2.dll
